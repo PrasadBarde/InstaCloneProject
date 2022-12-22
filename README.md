@@ -1,2 +1,2 @@
 # InstaCloneProject
-Repository of Instaclone mini project using MERN 
+project link :- https://myinstaclone1.netlify.app/
